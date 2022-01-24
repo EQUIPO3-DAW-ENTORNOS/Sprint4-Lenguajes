@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MENú_RESTAURANTE>
+
+<ENTRANTES>
+    <name>ensalada mixta</name>
+    <price>4€</price>
+    <ingredientes>
+   lechuga, tomate, huevo, zanahoria,atún
+   </ingredientes>
+</ENTRANTES>
+
+<ENTRANTES>
+    <name>ensalada de pasta</name>
+    <price>6€</price>
+    <ingredientes>
+   macarrones, tomate natural, queso, atún
+   </ingredientes>
+</ENTRANTES>
+
+<ENTRANTES>
+    <name>sopa de marisco</name>
+    <price>9€</price>
+    <ingredientes>
+   patatas, rape, gambas, almejas, mejillones, arroz
+   </ingredientes>
+</ENTRANTES>
+
+<PLATOS>
+    <name>filetes de rosada a la plancha con patatas cocidas</name>
+    <price>12€</price>
+    <ingredientes>
+   filetes de rosada fresca patatas de la huerta cocidas con un perejil
+   </ingredientes>
+</PLATOS>
+
+<PLATOS>
+    <name>solomillo de cerdo con salsa roquefort</name>
+    <price>18€</price>
+    <ingredientes>
+   filetes de cerdo ibérico con salsa roquefort de la casa con patatas fritas
+   </ingredientes>
+</PLATOS>
+
+<PLATOS>
+    <name>paella de marisco</name>
+    <price>14€</price>
+    <ingredientes>
+   arroz con gambas almejas mejillones y carne de cerdo además de un sofrito de verduras
+   </ingredientes>
+</PLATOS>
+
+<POSTRE>
+    <name>tarta de queso</name>
+    <price>8€</price>
+    <ingredientes>
+   tarta de queso casera con mermelada de fresa y nata
+   </ingredientes>
+</POSTRE>
+
+<POSTRE>
+    <name>mecedonia de frutas</name>
+    <price>5€</price>
+    <ingredientes>
+   trozitos de fruta fresca cortada en rodajas
+   </ingredientes>
+</POSTRE>
+
+<POSTRE>
+    <name>helado de vainilla</name>
+    <price>4€</price>
+    <ingredientes>
+   helado de vainilla hecho a mano con un toque de sabor de nuestro chef
+   </ingredientes>
+</POSTRE>
+
+<imagen enlace="C:\Users\Piyi\Desktop\sprint3\xmlsprint4\Captura de pantalla 2022-01-24 180442.png"></imagen>
+
+</MENú_RESTAURANTE>
