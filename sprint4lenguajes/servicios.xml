@@ -48,13 +48,58 @@
         <price>25€ por persona</price>
         
     </Servicios>
+    <Servicios category="Adultos">
+        <name>Celebración Comida Empresa</name>
+        <descripción>
+        Organizamos tu Comida de empresa.
+        </descripción>
+        <price>35€ por persona</price>
+        
+    </Servicios>
+    <Servicios category="Adultos">
+        <name>Celebración Comida Empresa + Cena</name>
+        <descripción>
+        Organizamos tu Comida y cena de empresa.
+        </descripción>
+        <price>55€ por persona</price>
+        
+    </Servicios>
+    <Servicios category="Mixto">
+        <name>Celebración Bodas </name>
+        <descripción>
+        Organizamos tu Boda.
+        </descripción>
+        <price>55€ por persona</price>
+        
+    </Servicios>
+    <Servicios category="Mixto">
+        <name>Celebración Bautizo </name>
+        <descripción>
+        Organizamos tu Bautizo.
+        </descripción>
+        <price>55€ por persona</price>
+        
+    </Servicios>
+    <Servicios category="Adultos">
+        <name>Celebración Comida Jubilación</name>
+        <descripción>
+        Organizamos tu Comida de Jubilación.
+        </descripción>
+        <price>30€ por persona</price>
+        
+    </Servicios>
+    <Servicios category="Adultos">
+        <name>Celebración Despedida de Soltero</name>
+        <descripción>
+        Organizamos tu Despedida de Soltero.
+        </descripción>
+        <price>50€ por persona</price>
+        
+    </Servicios>
+
+
+
     
-
-
-
-
-
-
 
 
 
