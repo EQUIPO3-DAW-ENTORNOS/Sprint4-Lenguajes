@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servicios_Restaurante>
-    <Servicios>
+    <Servicios category="Niños">
         <name>Celebración Cumpleaños (-18)</name>
         <descripción>
         Organizamos tu cumpleaños.
@@ -8,7 +8,7 @@
         <price>10€ por persona</price>
         
     </Servicios>
-    <Servicios>
+    <Servicios category="Adultos">
         <name>Celebración Cumpleaños (+18)</name>
         <descripción>
         Organizamos tu cumpleaños.
@@ -16,4 +16,48 @@
         <price>15€ por persona</price>
         
     </Servicios>
+    <Servicios category="Niños">
+        <name>Celebración Fiesta (-18)</name>
+        <descripción>
+        Organizamos tu fiesta.
+        </descripción>
+        <price>15€ por persona</price>
+        
+    </Servicios>
+    <Servicios category="Adultos">
+        <name>Celebración Cumpleaños (+18)</name>
+        <descripción>
+        Organizamos tu fiesta.
+        </descripción>
+        <price>25€ por persona</price>
+        
+    </Servicios>
+    <Servicios category="Niños">
+        <name>Celebración Comida Navidad (-18)</name>
+        <descripción>
+        Organizamos tu comida de navidad.
+        </descripción>
+        <price>15€ por persona</price>
+        
+    </Servicios>
+    <Servicios category="Adultos">
+        <name>Celebración Comida Navidad (+18)</name>
+        <descripción>
+        Organizamos tu comida de navidad.
+        </descripción>
+        <price>25€ por persona</price>
+        
+    </Servicios>
+    
+
+
+
+
+
+
+
+
+
+
+    
 </Servicios_Restaurante>
