@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servicios_Restaurante>
+    <Servicios>
+        <name>Celebración Cumpleaños (-18)</name>
+        <descripción>
+        Organizamos tu cumpleaños.
+        </descripción>
+        <price>10€ por persona</price>
+        
+    </Servicios>
+    <Servicios>
+        <name>Celebración Cumpleaños (+18)</name>
+        <descripción>
+        Organizamos tu cumpleaños.
+        </descripción>
+        <price>15€ por persona</price>
+        
+    </Servicios>
+</Servicios_Restaurante>
