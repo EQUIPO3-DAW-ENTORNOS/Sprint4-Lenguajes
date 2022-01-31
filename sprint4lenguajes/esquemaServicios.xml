@@ -1,9 +1,24 @@
 <!--Esquema XML-->
-<?xml version="1.0"?>
-<xs:schema>
-<xs:element name="note">
-
-
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Servicios_Restaurante">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Servicios"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Servicios">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name"/>
+        <xs:element ref="descripción"/>
+        <xs:element ref="price"/>
+      </xs:sequence>
+      <xs:attribute name="category" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="name" type="xs:string"/>
+  <xs:element name="descripción" type="xs:string"/>
+  <xs:element name="price" type="xs:string"/>
 </xs:schema>
