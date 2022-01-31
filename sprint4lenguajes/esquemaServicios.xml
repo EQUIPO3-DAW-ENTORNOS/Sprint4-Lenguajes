@@ -1,0 +1,9 @@
+<!--Esquema XML-->
+<?xml version="1.0"?>
+<xs:schema>
+<xs:element name="note">
+
+
+
+
+</xs:schema>
