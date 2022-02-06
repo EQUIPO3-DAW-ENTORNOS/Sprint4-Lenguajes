@@ -1,0 +1,45 @@
+
+<!-- !--Xpath Menú--!
+
+1- !-- Sólo los postres --!
+//PLATO[@category='POSTRE']
+Resultado : Se deben mostrar los platos de postres .
+
+
+
+2- !-- Todos los platos que tengan un precio menor a 10 euros--!
+//PLATO[price>10]
+Resultado : Se deben mostrar los platos de menos de 10 €.
+
+
+
+3 !--Todos los platos que tenga como ingrediente pescado--!
+//INGREDIENTES= pescado
+Resultado : Se deben mostrar los platos con pescado si los hay .
+
+
+
+4 !-- El último plato de la lista --!
+//PLATO[last()]
+Resultado : El ultimo plato de todos los que hay. 
+
+
+
+5 !-- Sólo el nombre de todos los platos --!
+//name
+Resultado : Se deben mostrar únicamente los platos.
+
+
+
+6 !-- Sólo el nombre y el primer ingrediente de todos los platos --!
+//name | //ingredientes [position()<2]
+Resultado : Se deben mostrar únicamente los platos con su primer ingrediente.
+
+
+
+3 CÓDIGOS CREADOS POR NOSOTROS
+
+1- //PLATO[@category='ENTRANTE'] ( SELECCIONA TODOS LOS PLATOS ENTRANTES)
+2- //PLATO[@category='PRINCIPAL'] ( SELECCIONA TODOS LOS PLATOS PRINCIPALES)
+3- //PLATO[last()-1] ( SELECCIONA EL PÉNULTIMO PLATO DE LA LISTA)
+
