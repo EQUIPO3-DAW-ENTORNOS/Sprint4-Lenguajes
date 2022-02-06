@@ -1,0 +1,32 @@
+
+<!-- !--Xpath Equipos--!
+1- !-- Mostrar los jugadores del segundo equipo --!
+/equipos/equipo[2]
+Resultado : Se deben mostrar los jugadores del 2 equipo creado.
+
+
+2- !-- Mostrar sólo los jugadores principales de todos los equipos--!
+//jugador[@category='titular']
+Resultado : Se deben mostrar los jugadores titulares.
+
+
+3 !-- Mostrar los jugadores con un sueldo mayor a 1500 euros--!
+//jugador[sueldo>1500]
+Resultado : Se deben mostrar los jugadores con sueldo de más de 1500 € .
+
+
+4 !-- Mostrar el equipo cuyo ranking sea igual a 1--!
+Código.
+Resultado : Se deben mostrar el equipo que vaya en primer lugar .
+
+
+5 !-- Mostrar sólo el nombre de los equipos y su ranking--!
+//equipo/nombre | //equipo/posicion
+Resultado : Se deben mostrar los equipos con su posición y sus respectivos nombres .
+
+
+3 CÓDIGOS CREADOS POR NOSOTROS
+1- //jugador[@category='suplente']     (SELECCIONA TODOS LOS JUGADORES SUPLENTES)
+2- //equipo/nombre                     ( SELECCIONA UNICAMENTE NOMBRES DE EQUIPOS)
+3- //jugador/edad                      (SELECCIONA UNICAMENTE LA EDAD DE LOS JUGADORES)
+
