@@ -10,49 +10,49 @@
 <jugador category="suplente">
         <nombre>Josemi</nombre>
         <edad>22</edad>
-        <sueldo>1500€</sueldo>
+        <sueldo>1500</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Juan</nombre>
         <edad>30</edad>
-        <sueldo>1800€</sueldo>
+        <sueldo>1800</sueldo>
     </jugador>
 
 <jugador category="suplente">
         <nombre>Manuel</nombre>
         <edad>18</edad>
-        <sueldo>1000€</sueldo>
+        <sueldo>1000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Fernando</nombre>
         <edad>40</edad>
-        <sueldo>2300€</sueldo>
+        <sueldo>2300</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Julio</nombre>
         <edad>26</edad>
-        <sueldo>3000€</sueldo>
+        <sueldo>3000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Carlos</nombre>
         <edad>21</edad>
-        <sueldo>5000€</sueldo>
+        <sueldo>5000</sueldo>
     </jugador>
 
     <jugador category="suplente">
         <nombre>Tomás</nombre>
         <edad>17</edad>
-        <sueldo>800€</sueldo>
+        <sueldo>800</sueldo>
     </jugador>
 
     <jugador category="titular">
         <nombre>Sissoko</nombre>
         <edad>28</edad>
-        <sueldo>3500€</sueldo>
+        <sueldo>3500</sueldo>
     </jugador>
 
     
@@ -66,49 +66,49 @@
 <jugador category="suplente">
         <nombre>Jordi</nombre>
         <edad>30</edad>
-        <sueldo>6000€</sueldo>
+        <sueldo>6000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Gerard</nombre>
         <edad>34</edad>
-        <sueldo>10000€</sueldo>
+        <sueldo>10000</sueldo>
     </jugador>
 
 <jugador category="suplente">
         <nombre>Abde</nombre>
         <edad>18</edad>
-        <sueldo>2000€</sueldo>
+        <sueldo>2000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Sergi</nombre>
         <edad>38</edad>
-        <sueldo>8000€</sueldo>
+        <sueldo>8000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Xavi</nombre>
         <edad>29</edad>
-        <sueldo>15000€</sueldo>
+        <sueldo>15000</sueldo>
     </jugador>
 
 <jugador category="suplente">
         <nombre>Neto</nombre>
         <edad>21</edad>
-        <sueldo>4000€</sueldo>
+        <sueldo>4000</sueldo>
     </jugador>
 
     <jugador category="titular">
         <nombre>Fati</nombre>
         <edad>19</edad>
-        <sueldo>15000€</sueldo>
+        <sueldo>15000</sueldo>
     </jugador>
 
     <jugador category="titular">
         <nombre>Ferran</nombre>
         <edad>24</edad>
-        <sueldo>12500€</sueldo>
+        <sueldo>12500</sueldo>
     </jugador>
 
 </equipo>
@@ -122,49 +122,49 @@
 <jugador category="suplente">
         <nombre>Camavinga</nombre>
         <edad>18</edad>
-        <sueldo>6000€</sueldo>
+        <sueldo>6000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Vinicius</nombre>
         <edad>20</edad>
-        <sueldo>20000€</sueldo>
+        <sueldo>20000</sueldo>
     </jugador>
 
 <jugador category="suplente">
         <nombre>Valverde</nombre>
         <edad>22</edad>
-        <sueldo>4000€</sueldo>
+        <sueldo>4000</sueldo>
     </jugador>
 
 <jugador category="suplente">
         <nombre>Marcelo</nombre>
         <edad>34</edad>
-        <sueldo>8000€</sueldo>
+        <sueldo>8000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Hazard</nombre>
         <edad>29</edad>
-        <sueldo>15000€</sueldo>
+        <sueldo>15000</sueldo>
     </jugador>
 
 <jugador category="suplente">
         <nombre>Lunin</nombre>
         <edad>21</edad>
-        <sueldo>3000€</sueldo>
+        <sueldo>3000</sueldo>
     </jugador>
 
     <jugador category="suplente">
         <nombre>Rodrygo</nombre>
         <edad>19</edad>
-        <sueldo>15000€</sueldo>
+        <sueldo>15000</sueldo>
     </jugador>
 
     <jugador category="desaparecido">
         <nombre>Bale</nombre>
         <edad>30</edad>
-        <sueldo>30000€</sueldo>
+        <sueldo>30000</sueldo>
     </jugador>
    
 </equipo>
@@ -177,49 +177,49 @@
 <jugador category="suplente">
         <nombre>Papu</nombre>
         <edad>32</edad>
-        <sueldo>3000€</sueldo>
+        <sueldo>3000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Koundé</nombre>
         <edad>23</edad>
-        <sueldo>8000€</sueldo>
+        <sueldo>8000</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Diego Carlos</nombre>
         <edad>26</edad>
-        <sueldo>4000€</sueldo>
+        <sueldo>4000</sueldo>
     </jugador>
 
 <jugador category="suplente">
         <nombre>Oliver</nombre>
         <edad>27</edad>
-        <sueldo>1800€</sueldo>
+        <sueldo>1800</sueldo>
     </jugador>
 
 <jugador category="titular">
         <nombre>Ennesiry</nombre>
         <edad>26</edad>
-        <sueldo>17000€</sueldo>
+        <sueldo>17000</sueldo>
     </jugador>
 
 <jugador category="suplente">
         <nombre>Dimitrovic</nombre>
         <edad>31</edad>
-        <sueldo>3000€</sueldo>
+        <sueldo>3000</sueldo>
     </jugador>
 
     <jugador category="suplente">
         <nombre>Brayan</nombre>
         <edad>19</edad>
-        <sueldo>5000€</sueldo>
+        <sueldo>5000</sueldo>
     </jugador>
 
     <jugador category="titular">
         <nombre>Rakitic</nombre>
         <edad>30</edad>
-        <sueldo>30000€</sueldo>
+        <sueldo>30000</sueldo>
     </jugador>
    
 </equipo>
