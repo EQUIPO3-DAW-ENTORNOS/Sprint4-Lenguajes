@@ -5,7 +5,7 @@
         <descripción>
         Organizamos tu cumpleaños.
         </descripción>
-        <price>10€ por persona</price>
+        <price>10</price>
         
     </Servicios>
     <Servicios category="Adultos">
@@ -13,7 +13,7 @@
         <descripción>
         Organizamos tu cumpleaños.
         </descripción>
-        <price>15€ por persona</price>
+        <price>15</price>
         
     </Servicios>
     <Servicios category="Niños">
@@ -21,7 +21,7 @@
         <descripción>
         Organizamos tu fiesta.
         </descripción>
-        <price>15€ por persona</price>
+        <price>15</price>
         
     </Servicios>
     <Servicios category="Adultos">
@@ -29,7 +29,7 @@
         <descripción>
         Organizamos tu fiesta.
         </descripción>
-        <price>25€ por persona</price>
+        <price>25</price>
         
     </Servicios>
     <Servicios category="Niños">
@@ -37,7 +37,7 @@
         <descripción>
         Organizamos tu comida de navidad.
         </descripción>
-        <price>15€ por persona</price>
+        <price>15</price>
         
     </Servicios>
     <Servicios category="Adultos">
@@ -45,7 +45,7 @@
         <descripción>
         Organizamos tu comida de navidad.
         </descripción>
-        <price>25€ por persona</price>
+        <price>25</price>
         
     </Servicios>
     <Servicios category="Adultos">
@@ -53,7 +53,7 @@
         <descripción>
         Organizamos tu Comida de empresa.
         </descripción>
-        <price>35€ por persona</price>
+        <price>35</price>
         
     </Servicios>
     <Servicios category="Adultos">
@@ -61,7 +61,7 @@
         <descripción>
         Organizamos tu Comida y cena de empresa.
         </descripción>
-        <price>55€ por persona</price>
+        <price>55</price>
         
     </Servicios>
     <Servicios category="Mixto">
@@ -69,7 +69,7 @@
         <descripción>
         Organizamos tu Boda.
         </descripción>
-        <price>55€ por persona</price>
+        <price>55</price>
         
     </Servicios>
     <Servicios category="Mixto">
@@ -77,7 +77,7 @@
         <descripción>
         Organizamos tu Bautizo.
         </descripción>
-        <price>55€ por persona</price>
+        <price>55</price>
         
     </Servicios>
     <Servicios category="Adultos">
@@ -85,7 +85,7 @@
         <descripción>
         Organizamos tu Comida de Jubilación.
         </descripción>
-        <price>30€ por persona</price>
+        <price>30</price>
         
     </Servicios>
     <Servicios category="Adultos">
@@ -93,7 +93,7 @@
         <descripción>
         Organizamos tu Despedida de Soltero.
         </descripción>
-        <price>50€ por persona</price>
+        <price>50</price>
         
     </Servicios>
 
