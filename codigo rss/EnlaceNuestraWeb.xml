@@ -26,11 +26,6 @@
     <link>http://127.0.0.1:5500/codigo%20rss/paginas%20de%20trabajo%20de%20html%20y%20css/contactus_grupo3.html</link>
     <description>Paginas de contactanos</description>
   </item>
-  <item>
-    <title>eNLACE A WEB RSS INTERNET</title>
-    <link>http://www.aemet.es/documentos_d/eltiempo/prediccion/avisos/rss/CAP_AFAE_wah_RSS.xml</link>
-    <description>Paginas web rss</description>
-  </item> 
 </channel>
 
 </rss>
