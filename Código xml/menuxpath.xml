@@ -1,0 +1,41 @@
+
+!--Xpath Menú--!
+1- !-- Sólo los postres --!
+{​​
+//POSTRES
+
+    <name>tarta de queso</name>
+   
+    <name>mecedonia de frutas</name>
+   
+    <name>helado de vainilla</name>
+    
+
+}
+​​Resultado : Se deben mostrar los platos de postres .
+2- !-- Todos los platos que tengan un precio menor a 10 euros--!
+{​​
+Código.
+}​​
+Resultado : Se deben mostrar los platos de menos de 10 €.3 !--Todos los platos que tenga como ingrediente pescado--!
+{​​
+Código.
+}
+​​Resultado : Se deben mostrar los platos con pescado. .
+4 !-- El último plato de la lista --!
+{​​
+Código.
+}
+​​Resultado : El ultimo plato de todos los que hay. .5 !-- Sólo el nombre de todos los platos --!
+{​​
+Código.
+}
+​​Resultado : Se deben mostrar únicamente los platos.6 !-- Sólo el nombre y el primer ingrediente de todos los platos --!
+{​​
+Código.
+}
+​​Resultado : Se deben mostrar únicamente los platos con su primer ingrediente. .3 CÓDIGOS CREADOS POR NOSOTROS
+1-
+2-
+3-
+
