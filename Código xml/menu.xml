@@ -4,10 +4,10 @@
 <PLATO category="ENTRANTE"> >
     <name>ensalada mixta</name>
     <price>4</price>
-    <ingredientes>  lechuga </ingredientes>
-   <ingredientes>  tomate </ingredientes>
-   <ingredientes>  zanahoria</ingredientes>
-   <ingredientes>  atun</ingredientes>
+    <ingredientes>lechuga</ingredientes>
+   <ingredientes>tomate</ingredientes>
+   <ingredientes>zanahoria</ingredientes>
+   <ingredientes>atun</ingredientes>
 
 
 </PLATO>
@@ -15,11 +15,11 @@
 <PLATO category="ENTRANTE"> 
     <name>ensalada de pasta</name>
     <price>6</price>
-    <ingredientes> macarrones</ingredientes>
-   <ingredientes>  tomate </ingredientes>
-   <ingredientes>  natural</ingredientes>
-   <ingredientes>  atun</ingredientes>
-    <ingredientes>  queso</ingredientes>
+    <ingredientes>macarrones</ingredientes>
+   <ingredientes>tomate</ingredientes>
+   <ingredientes>natural</ingredientes>
+   <ingredientes>atun</ingredientes>
+    <ingredientes>queso</ingredientes>
 
 
    
@@ -29,8 +29,8 @@
     <name>sopa de marisco</name>
     <price>9</price>
     <ingredientes>
-      <ingredientes> patatas</ingredientes>
-   <ingredientes> rape </ingredientes>
+      <ingredientes>patatas</ingredientes>
+   <ingredientes>rape</ingredientes>
    <ingredientes> almejas</ingredientes>
    <ingredientes>  mejillones</ingredientes>
     <ingredientes> arroz</ingredientes>
