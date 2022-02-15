@@ -8,13 +8,14 @@ Resultado : Se deben mostrar los platos de postres .
 
 
 2- !-- Todos los platos que tengan un precio menor a 10 euros--!
-//PLATO[price>10]
+//PLATO[price<10]
 Resultado : Se deben mostrar los platos de menos de 10 €.
 
 
 
 3 !--Todos los platos que tenga como ingrediente pescado--!
-//PLATO[ingredientes=" lechuga "]/name
+//PLATO[ingredientes="lechuga"]/name
+
 Resultado : Se deben mostrar los platos con pescado si los hay .
 
 
@@ -32,7 +33,7 @@ Resultado : Se deben mostrar únicamente los platos.
 
 
 6 !-- Sólo el nombre y el primer ingrediente de todos los platos --!
-//name | //ingredientes [position()<2]
+//name | //PLATO/ingredientes[1]
 Resultado : Se deben mostrar únicamente los platos con su primer ingrediente.
 
 
